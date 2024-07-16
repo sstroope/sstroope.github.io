@@ -24,8 +24,8 @@ author:
   name             : "Sam Stroope"
   pronouns         : # example: "she/her"  
   location         : "Baton Rouge, Louisiana"
-  employer         : "LSU" "https://www.lsu.edu/"
-  uri              : #
+  employer         : "LSU"
+  uri              : "https://www.lsu.edu/"
   email            : "sstroope@lsu.edu" 
   
   # Academic websites
