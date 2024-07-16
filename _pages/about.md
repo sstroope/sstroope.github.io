@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Sociology at LSU [(more →)](https://sstroope.github.io/about)
+I am Professor of Sociology at LSU [(more →)](https://sstroope.github.io/about_me)
 
 
 **Selected Publications**
