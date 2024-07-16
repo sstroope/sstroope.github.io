@@ -22,9 +22,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   # name             : "Sam Stroope"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   location         : "Baton Rouge, Louisiana"
-  employer         : "[LSU](https://www.lsu.edu/)"
+  employer         : "LSU"
   email            : "sstroope@lsu.edu" 
   
   # Academic websites
