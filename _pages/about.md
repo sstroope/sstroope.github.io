@@ -8,8 +8,9 @@ redirect_from:
 
 I am Professor of Sociology at LSU [(more →)](https://sstroope.github.io/about)
 
-Selected Publications
-======
+
+**Selected Publications**
+
 [Age Changes in Religious Service Attendance in Mexican American Older Adults: A Growth Curve Analysis](https://doi.org/10.1177/08982643231219)
 
 [Why is religious attendance linked to more anxiety in US South Asians? The mediating role of congregational neglect](https://doi.org/10.1007/s40615-023-01764-6)
