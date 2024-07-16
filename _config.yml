@@ -21,7 +21,7 @@ repository               : "sstroope/sstroope.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sam Stroope"
+  # name             : "Sam Stroope"
   pronouns         : # example: "she/her"  
   location         : "Baton Rouge, Louisiana"
   employer         : "[LSU](https://www.lsu.edu/)"
