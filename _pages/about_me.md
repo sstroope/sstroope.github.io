@@ -4,7 +4,7 @@ title: "About"
 permalink: /about_me/
 author_profile: true
 redirect_from:
-  - /resume
+  - /about_me
 ---
 
 I am a professor in the [Department of Sociology](https://lsu.edu/hss/sociology/) at LSU. 
