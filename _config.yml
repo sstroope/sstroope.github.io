@@ -24,10 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Sam Stroope"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Baton Rouge, Louisiana"
-  employer         : "Louisiana State University"
-  uri              : "https://www.lsu.edu/"
+  employer         : "Louisiana State University" "https://www.lsu.edu/"
+  uri              : #
   email            : "sstroope@lsu.edu" 
 
   # Academic websites
