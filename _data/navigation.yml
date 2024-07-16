@@ -7,7 +7,7 @@ main:
     url: /about/    
 
   - title: "CV"
-    url: /cv/    
+    url: /files/cv.pdf    
     
   - title: "Mailing Address"
     url: /mailing_address/
