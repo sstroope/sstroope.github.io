@@ -11,7 +11,6 @@ locale                   : "en-US"
 title                    : "Sam Stroope"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
 url                      : https://sstroope.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sstroope/sstroope.github.io"
@@ -25,10 +24,10 @@ author:
   name             : "Sam Stroope"
   pronouns         : # example: "she/her"  
   location         : "Baton Rouge, Louisiana"
-  employer         : "Louisiana State University" "https://www.lsu.edu/"
+  employer         : "LSU" "https://www.lsu.edu/"
   uri              : #
   email            : "sstroope@lsu.edu" 
-
+  
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=O_uxIIcAAAAJ&hl=en"
     
