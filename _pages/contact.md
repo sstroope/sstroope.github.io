@@ -7,9 +7,9 @@ author_profile: true
 - Email: mailto:sstroope@lsu.edu 
 - Bluesky: [@sam-stroope](https://bsky.app/profile/sam-stroope.bsky.social)
 - X: [@sam_stroope](https://x.com/@sam_stroope)
-- Mailing Address:
-	Sam Stroope
-	Department of Sociology
-	126 Stubbs Hall
-	Louisiana State University
-	Baton Rouge, LA 70803
+- Mailing Address:<br/>
+	&ensp;Sam Stroope<br/>
+	&ensp;Department of Sociology<br/>
+	&ensp;126 Stubbs Hall<br/>
+	&ensp;Louisiana State University<br/>
+	&ensp;Baton Rouge, LA 70803<br/>
