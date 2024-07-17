@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Mailing Address"
-permalink: /mailing_address/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 - Email: mailto:sstroope@lsu.edu 
