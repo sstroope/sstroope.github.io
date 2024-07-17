@@ -32,8 +32,8 @@ author:
     
 
   # Social media
-  bluesky          : "@sam-stroope.bsky.social" # Replace this with you Bluesky username
-  twitter          : "@sam_stroope"
+  bluesky          : "sam-stroope.bsky.social" # Replace this with you Bluesky username
+  twitter          : "sam_stroope"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
